@@ -13,7 +13,7 @@
 				<key>background</key>
 				<string>#000000</string>
 				<key>caret</key>
-				<string>#F8F8F0</string>
+				<string>#F8F800</string>
 				<key>foreground</key>
 				<string>#F8F8F2</string>
 				<key>invisibles</key>
@@ -104,7 +104,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFEE00</string>
+				<string>#0055FF</string>
 				<key>background</key>
 				<string>#000000</string>
 			</dict>
